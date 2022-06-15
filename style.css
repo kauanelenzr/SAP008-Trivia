@@ -1,0 +1,50 @@
+body {
+  background-color: #292C40
+}
+#banner {
+  width: 30%
+}
+#banner {
+  display: block;
+  margin: 0px auto;
+}
+.respostas {
+  font-size: 17px
+}
+#quiz {
+  background-color: white
+}
+#quiz {
+  display: inline-block;
+}
+#quiz {
+  width: 500px
+}
+#quiz {
+  margin-left: 36%
+}
+#quiz {
+  margin-top: 3%
+}
+#quiz {
+  padding-left: 2%
+}
+#banner {
+  margin-top: 2%
+}
+.botao {
+  display: block;
+  margin: 0px auto;
+}
+.botao {
+  margin-left: 36%
+}
+.botao {
+  margin-top: 4%
+}
+#quiz {
+  padding-bottom: 1%
+}
+h2 {
+  font-style: italic;
+}
